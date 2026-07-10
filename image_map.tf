@@ -1,8 +1,8 @@
 locals { 
   image_map = {
    R82-Gateway = {
-      "ca-mon"   = "r058-a7ededdc-4de2-4078-a90b-34bfe3fc1811"
-      "ca-tor"   = "r038-fc6ae32a-11fc-4eb5-b4ad-66e86aebb709"
+      "ca-mon"   = "r058-a947d9ce-66ae-413b-af9c-cf3c7084a545"
+      "ca-tor"   = "r038-638c0ddd-b6bc-467b-809c-4035f16ee6a8"
    }
 
    R8120-Management = {
